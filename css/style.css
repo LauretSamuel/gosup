@@ -1,0 +1,43 @@
+@import url("bootstrap.css");
+
+
+html,body {
+    height: 100%;
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #004445;
+}
+                                /*                  Page de connexion                 */
+
+.form-signin {
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    z-index: 2;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+
+.form-signin-img{
+background-image: url("../images/v3.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 10.5rem;
+    width: 15rem;
+    margin-left: 5.5rem;
+}
+
+.form-signin-btn{
+    background-color: #002222;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: larger;
+}
+
