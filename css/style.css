@@ -1,8 +1,10 @@
 @import url("bootstrap.css");
+@import url('https://fonts.googleapis.com/css?family=Dosis:500&display=swap');
 
 
 html,body {
     height: 100%;
+    font-family: 'Dosis', sans-serif;
 }
 
 body {
@@ -40,4 +42,3 @@ background-image: url("../images/v3.png");
     color: rgba(255, 255, 255, 0.6);
     font-size: larger;
 }
-
