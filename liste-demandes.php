@@ -9,18 +9,7 @@
     <title>Liste des demandes</title>
 </head>
 <body class="page-demandes">
-<header>
-
-    <div class="header-logo"></div>
-
-    <div class="header-btn">
-    <button type="button" class="btn btn-dark btn-md">Ajouter un membre</button>
-    <button type="button" class="btn btn-dark btn-md">Liste des membres</button>
-    <button type="button" class="btn btn-dark btn-md">Déconnexion</button>
-    </div>
-
-</header>
-
+<?php include("header.html"); ?>
 <div class="corpus">
 
 <div class="container-page-nom">
@@ -49,7 +38,7 @@
             </thead>
             <tbody>
             <tr>
-                <td>Terminée / 07-08-2019</td>
+                <td>Terminée <br> 07-08-2019</td>
                 <td>Mark</td>
                 <td>Otto</td>
                 <td>@mdo</td>

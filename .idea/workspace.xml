@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87747914-c9cd-4c15-8bd9-fa4e4d860a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ajouter-membre.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liste-demandes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/RSMA_D_WEB_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/RSMA_D_WEB_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/connexion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajouter-membre.php" beforeDir="false" afterPath="$PROJECT_DIR$/ajouter-membre.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/v1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/v2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/v3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liste-demandes.php" beforeDir="false" afterPath="$PROJECT_DIR$/liste-demandes.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -88,7 +86,8 @@
       <workItem from="1575520487663" duration="544000" />
       <workItem from="1575529642779" duration="3129000" />
       <workItem from="1575883631529" duration="700000" />
-      <workItem from="1576039606142" duration="25259000" />
+      <workItem from="1576039606142" duration="27515000" />
+      <workItem from="1576143913500" duration="4646000" />
     </task>
     <servers />
   </component>

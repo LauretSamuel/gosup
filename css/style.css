@@ -20,6 +20,12 @@ header{
     border-bottom: 3px solid #0B2123;
 }
 
+.btn-dark,table{
+    background-color: #212529 !important;
+
+}
+
+
 
 
 
@@ -58,17 +64,14 @@ header{
     width: 50%;
     border-radius: 10px;
     background-color: #212529;
-
-
-}
-
-.page-nom-item{
-
+    border: 2px solid #002222;
     text-align: center;
-    padding: 0.1rem;
+
 
 
 }
+
+
 
 
 
@@ -156,6 +159,32 @@ background-image: url("../images/logo v3.png");
     background-position: center;
     background-size: 65%;
     background-repeat: no-repeat;
+
+}
+
+
+
+
+                                /*                  Page des d'ajout de membres                */
+
+
+
+.container-form-add{
+    display: flex;
+    justify-content: center;
+    height: 85%;
+    width: 100%;
+    color: white;
+}
+
+.form-add{
+    align-self: center;
+    align-content: center;
+    height: 95%;
+    width: 43%;
+    border-radius: 10px;
+    background-color: #212529;
+    border: 3px solid #002222;
 
 }
 
