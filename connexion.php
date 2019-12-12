@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Connexion</title>
 </head>
-<body>
+<body class="page-connexion" >
 
 
 

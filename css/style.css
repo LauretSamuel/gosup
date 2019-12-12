@@ -1,34 +1,99 @@
 @import url("bootstrap.css");
 @import url('https://fonts.googleapis.com/css?family=Dosis:500&display=swap');
 
+
+                                        /*      Structure principale         */
+
 html,body {
     height: 100%;
     font-family: 'Dosis', sans-serif;
+    background-color: #004445;
+
 }
 
-body {
-    display: -ms-flexbox;
+header{
     display: flex;
-    -ms-flex-align: center;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 7.5rem;
+    border-bottom: 3px solid #0B2123;
+}
+
+
+
+
+.header-logo{
+    height: 7rem;
+    width: 11rem;
+    background-image: url("/images/logo v3.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 0.5rem;
+}
+
+
+.header-btn{
+    margin-right: 1rem;
+}
+
+.corpus{
+    height: 82%;
+    width: 100%;
+}
+
+.container-page-nom{
+    display: flex;
+    justify-content: center;
+    height: 15%;
+    width: 100%;
+    color: white;
+
+}
+
+.page-nom{
+    align-self: center;
+    align-content: center;
+    height: 40%;
+    width: 50%;
+    border-radius: 10px;
+    background-color: #212529;
+
+
+}
+
+.page-nom-item{
+
+    text-align: center;
+    padding: 0.1rem;
+
+
+}
+
+
+
+                            /*                  Page de connexion                 */
+
+
+.page-connexion {
+    display: flex;
     align-items: center;
     padding-top: 40px;
     padding-bottom: 40px;
-    background-color: #004445;
 }
-                                /*                  Page de connexion                 */
+
 
 .form-signin {
     width: 100%;
     max-width: 400px;
     margin: auto;
-    z-index: 2;
     font-size: 16px;
     box-sizing: border-box;
 }
 
 
 .form-signin-img{
-background-image: url("../images/v3.png");
+background-image: url("../images/logo v3.png");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 10.5rem;
@@ -41,3 +106,57 @@ background-image: url("../images/v3.png");
     color: rgba(255, 255, 255, 0.6);
     font-size: larger;
 }
+
+
+
+                            /*                  Page des demandes                */
+
+
+.container-liste{
+    display: flex;
+    justify-content: center;
+    padding: 5rem;
+}
+
+.liste{
+    display: flex;
+    height: 10rem;
+    width: 60rem;
+
+}
+
+
+
+
+.btn-xl {
+    width: 35px;
+    height: 35px;
+    padding: 5px ;
+    font-size: 20px;
+    border-radius: 35px;
+
+
+}
+
+
+.btn-circle-cancel {
+
+    background-image: url("/images/unchecked.png");
+    background-position: center;
+    background-size: 55%;
+    background-repeat: no-repeat;
+
+
+
+}
+
+.btn-circle-validate{
+
+    background-image: url("/images/checked.png");
+    background-position: center;
+    background-size: 65%;
+    background-repeat: no-repeat;
+
+}
+
+

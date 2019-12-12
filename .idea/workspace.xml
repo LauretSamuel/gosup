@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87747914-c9cd-4c15-8bd9-fa4e4d860a6c" name="Default Changelist" comment="" />
+    <list default="true" id="87747914-c9cd-4c15-8bd9-fa4e4d860a6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ajouter-membre.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liste-demandes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/RSMA_D_WEB_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/RSMA_D_WEB_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/connexion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/v1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/v2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/v3.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,14 +29,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1UVO92YzwC3rueC9aLPcnImDNsK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -36,6 +53,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -69,11 +87,26 @@
       <workItem from="1575458698356" duration="5345000" />
       <workItem from="1575520487663" duration="544000" />
       <workItem from="1575529642779" duration="3129000" />
+      <workItem from="1575883631529" duration="700000" />
+      <workItem from="1576039606142" duration="25259000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="265" y="38" key="#CLI_Interpreters" timestamp="1575443172676">
@@ -88,9 +121,18 @@
       <screen x="1366" y="-311" width="1920" height="1080" />
     </state>
     <state x="2101" y="23" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.-311.1920.1080@1366.-311.1920.1080" timestamp="1575442895872" />
-    <state x="2160" y="153" key="NewPhpFileDialog" timestamp="1575442834652">
+    <state x="2160" y="153" key="NewPhpFileDialog" timestamp="1576135825133">
       <screen x="1366" y="-311" width="1920" height="1080" />
     </state>
-    <state x="2160" y="153" key="NewPhpFileDialog/0.0.1366.768/1366.-311.1920.1080@1366.-311.1920.1080" timestamp="1575442834652" />
+    <state x="565" y="330" key="NewPhpFileDialog/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1576039812238" />
+    <state x="2160" y="153" key="NewPhpFileDialog/0.0.1366.768/1366.-311.1920.1080@1366.-311.1920.1080" timestamp="1576135825133" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1576047872043">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1576047872043" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576041147632">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1576041147632" />
   </component>
 </project>
