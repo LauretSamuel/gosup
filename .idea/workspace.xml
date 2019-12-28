@@ -44,6 +44,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php-7.2.19-Win32-VC15-x64/php.exe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -88,6 +89,13 @@
       <workItem from="1575883631529" duration="700000" />
       <workItem from="1576039606142" duration="27515000" />
       <workItem from="1576143913500" duration="4646000" />
+      <workItem from="1576836854200" duration="50000" />
+      <workItem from="1576836966724" duration="14000" />
+      <workItem from="1576836993446" duration="101000" />
+      <workItem from="1577187771556" duration="18000" />
+      <workItem from="1577285577926" duration="2000" />
+      <workItem from="1577529685030" duration="22000" />
+      <workItem from="1577529761856" duration="3993000" />
     </task>
     <servers />
   </component>
@@ -108,18 +116,32 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="38" key="#CLI_Interpreters" timestamp="1575443172676">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="372" y="53" key="#CLI_Interpreters" timestamp="1576837056636">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="265" y="38" key="#CLI_Interpreters/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1575443172676" />
-    <state x="402" y="0" width="566" height="768" key="#PHP" timestamp="1575443178456">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="372" y="53" key="#CLI_Interpreters/0.0.1920.1080@0.0.1920.1080" timestamp="1576837056636" />
+    <state x="808" y="183" key="#Notifications" timestamp="1576836889166">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="808" y="183" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1576836889166" />
+    <state x="565" y="0" width="566" height="768" key="#PHP" timestamp="1576837059158">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="402" y="0" width="566" height="768" key="#PHP/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1575443178456" />
+    <state x="565" y="0" key="#PHP/0.0.1920.1080@0.0.1920.1080" timestamp="1576837059158" />
     <state x="2101" y="23" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575442895872">
       <screen x="1366" y="-311" width="1920" height="1080" />
     </state>
     <state x="2101" y="23" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.-311.1920.1080@1366.-311.1920.1080" timestamp="1575442895872" />
+    <state x="896" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577529696091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="896" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577529696091" />
+    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl" timestamp="1576837054542">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1576837054542" />
     <state x="2160" y="153" key="NewPhpFileDialog" timestamp="1576135825133">
       <screen x="1366" y="-311" width="1920" height="1080" />
     </state>

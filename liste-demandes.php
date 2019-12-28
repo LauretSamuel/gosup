@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Liste des demandes</title>
 </head>
-<body class="page-demandes">
+<body>
 <?php include("header.html"); ?>
 <div class="corpus">
 

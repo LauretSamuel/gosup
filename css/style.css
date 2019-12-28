@@ -178,6 +178,7 @@ background-image: url("../images/logo v3.png");
 }
 
 .form-add{
+    display: inline-grid;
     align-self: center;
     align-content: center;
     height: 95%;
@@ -187,5 +188,12 @@ background-image: url("../images/logo v3.png");
     border: 3px solid #002222;
 
 }
+
+.form-add-input{
+    width: 100%;
+    padding: 3rem;
+}
+
+                                /*                  Page de suppression de membres                */
 
 

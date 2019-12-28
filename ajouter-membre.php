@@ -21,7 +21,7 @@
 
     <div class="container-form-add">
         <div class="form-add">
-            <div class="form-signin">
+            <div class="form-add-input">
 
 
                 <form id="Login" action="traitement_connexion_admin.php" method="post">
@@ -29,17 +29,31 @@
                     <div class="form-group">
 
 
-                        <input type="email" class="form-control" required="required" id="inputEmail" name="inputEmail" placeholder="Email">
+                        <input type="text" class="form-control" required="required" id="fieldnom" name="inputEmail" placeholder="Nom">
 
                     </div>
 
                     <div class="form-group">
 
-                        <input type="password" class="form-control" required="required" id="inputPassword" name="inputPassword" placeholder="Mot de passe">
+                        <input type="text" class="form-control" required="required" id="fieldprenom" name="inputPassword" placeholder="Prénom">
 
                     </div>
 
-                    <input type="submit" value="Connexion"  class="btn form-signin-btn  w-100 ">
+                    <div class="form-group">
+
+                        <input type="email" class="form-control" required="required" id="fieldemail" name="inputPassword" placeholder="Email">
+
+                    </div>
+
+                    <div class="input-group mb-3">
+                        <select required="required"  class="custom-select" id="fieltypes">
+                            <option value="1">Administrateur</option>
+                            <option value="2">Professeur</option>
+                        </select>
+
+                    </div>
+
+                    <input type="submit" value="Valider"  class="btn form-signin-btn  w-100 ">
 
                 </form>
 
