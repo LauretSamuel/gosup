@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/style.css">
-    <title>Ajouter un membre</title>
+    <title>Document</title>
 </head>
 <body>
 <?php include("header.html"); ?>
@@ -15,7 +15,7 @@
 
     <div class="container-page-nom">
         <div class="page-nom">
-            <h3 class="page-nom-item">Ajouter un membre</h3>
+            <h3 class="page-nom-item">Ajouter un produit</h3>
         </div>
     </div>
 
@@ -29,31 +29,25 @@
                     <div class="form-group">
 
 
-                        <input type="text" class="form-control" required="required" id="fieldnom" name="inputEmail" placeholder="Nom">
+                        <input type="text" class="form-control" required="required" id="fieldnomobjet" name="inputEmail" placeholder="Nom de l'objet">
 
                     </div>
 
                     <div class="form-group">
 
-                        <input type="text" class="form-control" required="required" id="fieldprenom" name="inputPassword" placeholder="Prénom">
+                        <input type="number" class="form-control" required="required" id="fieldqte" name="inputPassword" placeholder="Quantité de base">
 
                     </div>
 
-                    <div class="form-group">
-
-                        <input type="email" class="form-control" required="required" id="fieldemail" name="inputPassword" placeholder="Email">
-
-                    </div>
 
                     <div class="input-group mb-3">
                         <select required="required"  class="custom-select" id="fieltypes">
-                            <option value="1">Administrateur</option>
-                            <option value="2">Professeur</option>
+                            <option value="1">boucle de la BDD</option>
                         </select>
 
                     </div>
 
-                    <input type="submit" value="Valider"  class="btn form-signin-btn  w-100 ">
+                    <input type="submit" value="Ajouter"  class="btn form-signin-btn  w-100 ">
 
                 </form>
 

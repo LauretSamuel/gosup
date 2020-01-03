@@ -52,7 +52,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -95,7 +95,11 @@
       <workItem from="1577187771556" duration="18000" />
       <workItem from="1577285577926" duration="2000" />
       <workItem from="1577529685030" duration="22000" />
-      <workItem from="1577529761856" duration="3993000" />
+      <workItem from="1577529761856" duration="5651000" />
+      <workItem from="1577703722772" duration="50000" />
+      <workItem from="1578069185707" duration="1471000" />
+      <workItem from="1578070902943" duration="146000" />
+      <workItem from="1578071165181" duration="13205000" />
     </task>
     <servers />
   </component>
@@ -134,23 +138,29 @@
       <screen x="1366" y="-311" width="1920" height="1080" />
     </state>
     <state x="2101" y="23" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.-311.1920.1080@1366.-311.1920.1080" timestamp="1575442895872" />
-    <state x="896" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577529696091">
+    <state x="896" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578070708066">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="896" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577529696091" />
-    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl" timestamp="1576837054542">
+    <state x="896" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578070708066" />
+    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl" timestamp="1578071767342">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1576837054542" />
-    <state x="2160" y="153" key="NewPhpFileDialog" timestamp="1576135825133">
-      <screen x="1366" y="-311" width="1920" height="1080" />
+    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578071767342" />
+    <state x="794" y="464" key="NewPhpFileDialog" timestamp="1578083806707">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="565" y="330" key="NewPhpFileDialog/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1576039812238" />
     <state x="2160" y="153" key="NewPhpFileDialog/0.0.1366.768/1366.-311.1920.1080@1366.-311.1920.1080" timestamp="1576135825133" />
-    <state x="184" y="26" key="SettingsEditor" timestamp="1576047872043">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="794" y="464" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578083806707" />
+    <state x="259" y="37" key="SettingsEditor" timestamp="1578071771752">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1576047872043" />
+    <state x="259" y="37" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578071771752" />
+    <state x="136" y="254" key="run.anything.popup" timestamp="1578072134924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="136" y="254" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1578072134924" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576041147632">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

@@ -112,7 +112,7 @@ background-image: url("../images/logo v3.png");
 
 
 
-                            /*                  Page des demandes                */
+                            /*                  Page des  liste des demandes                */
 
 
 .container-liste{
@@ -132,40 +132,49 @@ background-image: url("../images/logo v3.png");
 
 
 .btn-xl {
-    width: 35px;
-    height: 35px;
-    padding: 5px ;
-    font-size: 20px;
-    border-radius: 35px;
-
-
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 1.2rem;
+    border-radius: 2.5rem;
 }
 
 
-.btn-circle-cancel {
 
-    background-image: url("/images/unchecked.png");
-    background-position: center;
-    background-size: 55%;
+.btn-v{
+       background-image: url("../images/check.svg");
     background-repeat: no-repeat;
-
-
-
+    background-size: 100%;
 }
 
-.btn-circle-validate{
 
-    background-image: url("/images/checked.png");
-    background-position: center;
-    background-size: 65%;
+.btn-x{
+        background-image: url("../images/x.svg");
     background-repeat: no-repeat;
+    background-size: 100%;
+}
 
+                                /*                  Page Stock              */
+
+
+.btn-plus{
+
+    background-image: url("../images/plus.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.btn-moins{
+   background-image: url("../images/minus.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 
 
 
-                                /*                  Page des d'ajout de membres                */
+
+                                /*                  Page d'ajout de membres                */
 
 
 
@@ -194,6 +203,45 @@ background-image: url("../images/logo v3.png");
     padding: 3rem;
 }
 
-                                /*                  Page de suppression de membres                */
+                                /*                  Page de accueil des profs               */
+
+
+
+
+
+.container-master{
+    display: inline-grid;
+    width: 100%;
+    height: auto;
+    padding: 2rem;
+
+}
+
+.obj-msg{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    border-radius: 10px;
+    background-color: #212529;
+    border: 3px solid #002222;
+    color: white;
+
+}
+
+.container-obj-msg{
+    display: flex;
+    justify-content: center;
+    margin: 3rem;
+}
+
+
+.container-obj-option{
+    display: flex;
+    justify-self: center;
+    justify-content: space-between;
+    width: 50%;
+    padding: 2rem;
+
+}
 
 

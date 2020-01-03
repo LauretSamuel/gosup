@@ -44,8 +44,8 @@
                 <td>@mdo</td>
                 <td>@mdo</td>
                 <td> character max 100  character max 100 character max 100 character max 100 character max 100 characte</td>
-                <td><button type="button" class="btn btn-success btn-circle-validate btn-xl"></button></td>
-                <td><button type="button" class="btn btn-danger btn-circle-cancel btn-xl"></button></td>
+                <td><button type="button" class="btn btn-success btn-xl btn-v"></button></td>
+                <td><button type="button" class="btn btn-danger btn-xl btn-x"></button></td>
             </tr>
             </tbody>
         </table>
