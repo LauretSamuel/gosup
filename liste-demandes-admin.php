@@ -9,7 +9,9 @@
     <title>Liste des demandes</title>
 </head>
 <body>
-<?php include("header.html"); ?>
+<?php include("composant-header.html"); ?>
+<?php include("composant-user.php"); ?>
+
 <div class="corpus">
 
 <div class="container-page-nom">

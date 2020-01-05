@@ -9,7 +9,9 @@
     <title>Mes demandes</title>
 </head>
 <body>
-<?php include("header.html"); ?>
+<?php include("composant-header.html"); ?>
+<?php include("composant-user.php"); ?>
+
 <div class="corpus">
 
     <div class="container-page-nom">
@@ -40,7 +42,7 @@
                     <td>En cours</td>
                     <td>stylo</td>
                     <td>2</td>
-                    <td>102/td>
+                    <td>102</td>
                     <td>Hi there</td>
                     <td>07-09-19</td>
 

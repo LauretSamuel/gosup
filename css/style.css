@@ -1,5 +1,5 @@
 @import url("bootstrap.css");
-@import url('https://fonts.googleapis.com/css?family=Dosis:500&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Dosis:500&display=swap");
 
 
                                         /*      Structure principale         */
@@ -26,9 +26,6 @@ header{
 }
 
 
-
-
-
 .header-logo{
     height: 7rem;
     width: 11rem;
@@ -41,6 +38,18 @@ header{
 
 .header-btn{
     margin-right: 1rem;
+}
+
+.username{
+    margin: 0.8rem;
+    color: white;
+    font-size: medium;
+}
+
+span{
+    font-size: larger;
+    text-decoration: underline;
+    padding: 0.7rem;
 }
 
 .corpus{

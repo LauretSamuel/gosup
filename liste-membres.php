@@ -9,7 +9,9 @@
     <title>Liste des Membres</title>
 </head>
 <body>
-<?php include("header.html"); ?>
+<?php include("composant-header.html"); ?>
+<?php include("composant-user.php"); ?>
+
 <div class="corpus">
 
 <div class="container-page-nom">
@@ -28,6 +30,7 @@
                 <th scope="col">#</th>
                 <th scope="col">Nom/Prénom</th>
                 <th scope="col">Email</th>
+                <th scope="col">Rôle</th>
                 <th scope="col">Membre depuis le :</th>
 
 
@@ -38,6 +41,7 @@
                 <td>1</td>
                 <td>Mark Lamber</td>
                 <td>test@gmail.com</td>
+                <td>Admin</td>
                 <td>07.09.2019</td>
                 <td><button type="button" class="btn btn-danger ">Supprimer</button></td>
 

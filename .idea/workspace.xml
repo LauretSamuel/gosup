@@ -100,6 +100,8 @@
       <workItem from="1578069185707" duration="1471000" />
       <workItem from="1578070902943" duration="146000" />
       <workItem from="1578071165181" duration="13205000" />
+      <workItem from="1578137011270" duration="3561000" />
+      <workItem from="1578213489591" duration="3881000" />
     </task>
     <servers />
   </component>
@@ -125,6 +127,10 @@
     </state>
     <state x="265" y="38" key="#CLI_Interpreters/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1575443172676" />
     <state x="372" y="53" key="#CLI_Interpreters/0.0.1920.1080@0.0.1920.1080" timestamp="1576837056636" />
+    <state x="552" y="199" width="816" height="729" key="#Intentions" timestamp="1578213563335">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="199" width="816" height="729" key="#Intentions/0.0.1920.1080@0.0.1920.1080" timestamp="1578213563335" />
     <state x="808" y="183" key="#Notifications" timestamp="1576836889166">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -138,25 +144,41 @@
       <screen x="1366" y="-311" width="1920" height="1080" />
     </state>
     <state x="2101" y="23" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.-311.1920.1080@1366.-311.1920.1080" timestamp="1575442895872" />
+    <state x="213" y="383" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1578137116465">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="213" y="383" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578137116465" />
     <state x="896" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578070708066">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="896" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578070708066" />
-    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl" timestamp="1578071767342">
+    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl" timestamp="1578137106543">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578071767342" />
-    <state x="794" y="464" key="NewPhpFileDialog" timestamp="1578083806707">
+    <state x="572" y="206" width="440" height="438" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578137106543" />
+    <state x="794" y="464" key="NewPhpFileDialog" timestamp="1578214405388">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="565" y="330" key="NewPhpFileDialog/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1576039812238" />
     <state x="2160" y="153" key="NewPhpFileDialog/0.0.1366.768/1366.-311.1920.1080@1366.-311.1920.1080" timestamp="1576135825133" />
-    <state x="794" y="464" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578083806707" />
-    <state x="259" y="37" key="SettingsEditor" timestamp="1578071771752">
+    <state x="794" y="464" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578214405388" />
+    <state x="259" y="37" key="SettingsEditor" timestamp="1578137070296">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768/1366.-311.1920.1080@0.0.1366.768" timestamp="1576047872043" />
-    <state x="259" y="37" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578071771752" />
+    <state x="259" y="37" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578137070296" />
+    <state x="-7" y="0" width="974" height="1087" key="dock-window-1" timestamp="1578213992011">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-7" y="0" width="974" height="1087" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1578213992011" />
+    <state x="0" y="0" width="974" height="1086" key="dock-window-2" timestamp="1578214192346">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="974" height="1086" key="dock-window-2/0.0.1920.1080@0.0.1920.1080" timestamp="1578214192346" />
+    <state x="-7" y="0" width="974" height="1087" key="dock-window-3" timestamp="1578214204769">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-7" y="0" width="974" height="1087" key="dock-window-3/0.0.1920.1080@0.0.1920.1080" timestamp="1578214204769" />
     <state x="136" y="254" key="run.anything.popup" timestamp="1578072134924">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

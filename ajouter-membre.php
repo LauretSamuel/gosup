@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!doctype html>
 <html lang="fr">
 <head>
@@ -9,7 +13,8 @@
     <title>Ajouter un membre</title>
 </head>
 <body>
-<?php include("header.html"); ?>
+<?php include("composant-header.html"); ?>
+<?php include("composant-user.php"); ?>
 
 <div class="corpus">
 
@@ -24,36 +29,44 @@
             <div class="form-add-input">
 
 
-                <form id="Login" action="traitement_connexion_admin.php" method="post">
+                <form id="Login" action="action-ajouter-membre.php" method="post">
 
                     <div class="form-group">
 
 
-                        <input type="text" class="form-control" required="required" id="fieldnom" name="inputEmail" placeholder="Nom">
+                        <input type="text" class="form-control" required="required" id="fieldnom" name="nom" placeholder="Nom">
 
                     </div>
 
                     <div class="form-group">
 
-                        <input type="text" class="form-control" required="required" id="fieldprenom" name="inputPassword" placeholder="Prénom">
+                        <input type="text" class="form-control" required="required" id="fieldprenom" name="prenom" placeholder="Prénom">
 
                     </div>
 
                     <div class="form-group">
 
-                        <input type="email" class="form-control" required="required" id="fieldemail" name="inputPassword" placeholder="Email">
+                        <input type="email" class="form-control" required="required" id="fieldemail" name="email" placeholder="Email">
 
                     </div>
+
+                    <div class="form-group">
+
+                        <input type="password" class="form-control" required="required" id="fieldpassword" name="password" placeholder="Mot de passe">
+
+                    </div>
+
+
 
                     <div class="input-group mb-3">
-                        <select required="required"  class="custom-select" id="fieltypes">
-                            <option value="1">Administrateur</option>
-                            <option value="2">Professeur</option>
+                        <select name="role" required="required"  class="custom-select" id="fieltypes">
+                            <option value="Administrateur">Administrateur</option>
+                            <option value="Professeur">Professeur</option>
                         </select>
 
                     </div>
 
-                    <input type="submit" value="Valider"  class="btn form-signin-btn  w-100 ">
+                   <input type="submit" value="Valider"  class="btn form-signin-btn  w-100 ">
 
                 </form>
 

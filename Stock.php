@@ -9,7 +9,9 @@
     <title>Liste des Membres</title>
 </head>
 <body>
-<?php include("header.html"); ?>
+<?php include("composant-header.html"); ?>
+<?php include("composant-user.php"); ?>
+
 <div class="corpus">
 
 <div class="container-page-nom">
@@ -28,6 +30,7 @@
                 <th scope="col">#</th>
                 <th scope="col">Dénomination de l'objet</th>
                 <th scope="col">Quantité</th>
+                <th scope="col">Type</th>
                 <th scope="col">Augmenter</th>
                 <th scope="col">Diminuer</th>
 
@@ -39,6 +42,7 @@
                 <td>1</td>
                 <td>obj1</td>
                 <td>1</td>
+                <td>fourniture de burreaux</td>
                 <td><button type="button" class="btn btn-light btn-xl btn-plus"></button></td>
                 <td><button type="button" class="btn btn-light btn-xl btn-moins"></button></td>
 

@@ -6,8 +6,10 @@
     <title></title>
   </head>
   <body>
-    <?php include("header.html"); ?>
-<div class="corpus">
+    <?php include("composant-header.html"); ?>
+    <?php include("composant-user.php"); ?>
+
+    <div class="corpus">
 
 <div class="container-master">
 
